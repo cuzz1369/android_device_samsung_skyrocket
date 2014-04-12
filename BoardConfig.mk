@@ -37,7 +37,7 @@ TARGET_BOOTLOADER_BOARD_NAME := MSM8660_SURF
 TARGET_OTA_ASSERT_DEVICE := SGH-I727,skyrocket
 
 # Kernel
-TARGET_KERNEL_CONFIG        := cyanogenmod_skyrocket_defconfig
+TARGET_KERNEL_CONFIG        := Sultan_defconfig
 TARGET_KERNEL_SOURCE        := kernel/samsung/msm8660-common
 
 # Assert minimum baseband version
