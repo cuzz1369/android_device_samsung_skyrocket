@@ -38,7 +38,7 @@ TARGET_OTA_ASSERT_DEVICE := SGH-I727,skyrocket
 
 # Kernel
 TARGET_KERNEL_CONFIG        := Sultan_defconfig
-TARGET_KERNEL_SOURCE        := kernel/samsung/msm8660-common
+TARGET_KERNEL_SOURCE        := kernel/samsung/skyrocket
 
 # Assert minimum baseband version
 TARGET_BOARD_INFO_FILE ?= device/samsung/skyrocket/board-info.txt
